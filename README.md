@@ -4,6 +4,7 @@ This repository contains an example setup of using Typedoc with the typedoc-vite
 
 To run the example locally:
 
-1. Clone this repository and cd into the root folder.
-2. Run `npm install`
-3. Run `npm run start`
+1. `git clone git@github.com:tgreyuk/typedoc-vitepress-theme-example.git`
+2. `cd typedoc-vitepress-theme-example`
+3. `npm install`
+4. `npm run start`
