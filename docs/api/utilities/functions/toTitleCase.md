@@ -3,7 +3,7 @@
 # toTitleCase()
 
 ```ts
-toTitleCase(input): string
+function toTitleCase(input): string
 ```
 
 Function to convert a string to title case.
@@ -22,4 +22,4 @@ The input string in title case.
 
 ***
 
-Generated using [typedoc-plugin-markdown](https://www.npmjs.com/package/typedoc-plugin-markdown) and [TypeDoc](https://typedoc.org/)
+Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

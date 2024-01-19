@@ -10,7 +10,4 @@ hero:
     - theme: brand
       text: Visit API
       link: /api/
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 ---
