@@ -36,7 +36,7 @@ Generate a billing receipt for a transaction.
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+• `transaction`: [`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction for which to generate a receipt.
 

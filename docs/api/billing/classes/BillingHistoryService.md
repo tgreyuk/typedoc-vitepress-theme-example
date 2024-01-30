@@ -36,7 +36,7 @@ Add a transaction to the billing history.
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+• `transaction`: [`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction to be added to the history.
 

@@ -17,11 +17,11 @@ new CustomerAccount(
 
 #### Parameters
 
-• **customer**: [`Customer`](../interfaces/Customer.md)
+• `customer`: [`Customer`](../interfaces/Customer.md)
 
-• **contactInfo**: [`CustomerContact`](../interfaces/CustomerContact.md)
+• `contactInfo`: [`CustomerContact`](../interfaces/CustomerContact.md)
 
-• **billingInfo**: [`CustomerBilling`](../interfaces/CustomerBilling.md)
+• `billingInfo`: [`CustomerBilling`](../interfaces/CustomerBilling.md)
 
 #### Returns
 
@@ -71,7 +71,7 @@ Add an order to the customer's order history.
 
 #### Parameters
 
-• **order**: [`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)
+• `order`: [`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)
 
 The order to be added to the history.
 

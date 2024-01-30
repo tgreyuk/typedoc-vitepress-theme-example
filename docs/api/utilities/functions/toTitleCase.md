@@ -10,7 +10,7 @@ Function to convert a string to title case.
 
 ## Parameters
 
-• **input**: `string`
+• `input`: `string`
 
 The input string.
 

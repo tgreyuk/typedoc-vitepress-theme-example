@@ -10,11 +10,11 @@ Function to format a number as currency.
 
 ## Parameters
 
-• **amount**: `number`
+• `amount`: `number`
 
 The amount to be formatted.
 
-• **currencyCode**: `string`
+• `currencyCode`: `string`
 
 The currency code (e.g., USD, EUR).
 

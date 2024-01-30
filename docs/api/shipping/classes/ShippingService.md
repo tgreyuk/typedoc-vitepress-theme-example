@@ -52,7 +52,7 @@ Ship an order.
 
 #### Parameters
 
-• **shipment**: [`ShippingRecord`](../interfaces/ShippingRecord.md)
+• `shipment`: [`ShippingRecord`](../interfaces/ShippingRecord.md)
 
 The shipment record.
 

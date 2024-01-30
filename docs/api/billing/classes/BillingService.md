@@ -52,7 +52,7 @@ Process a billing transaction.
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+• `transaction`: [`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction to be processed.
 

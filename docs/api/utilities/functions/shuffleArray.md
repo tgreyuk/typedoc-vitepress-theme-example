@@ -14,7 +14,7 @@ Function to shuffle an array.
 
 ## Parameters
 
-• **array**: `T`[]
+• `array`: `T`[]
 
 The array to be shuffled.
 

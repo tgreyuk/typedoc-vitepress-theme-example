@@ -34,7 +34,7 @@ name: string;
 
 #### Inherited from
 
-[`products.Product.name`](Product.md#name)
+[`Product`](Product.md).[`name`](Product.md#name)
 
 ***
 
@@ -46,7 +46,7 @@ price: number;
 
 #### Inherited from
 
-[`products.Product.price`](Product.md#price)
+[`Product`](Product.md).[`price`](Product.md#price)
 
 ***
 
@@ -58,7 +58,7 @@ productId: string;
 
 #### Inherited from
 
-[`products.Product.productId`](Product.md#productid)
+[`Product`](Product.md).[`productId`](Product.md#productid)
 
 ***
 
